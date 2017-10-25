@@ -1,0 +1,27 @@
+*{
+  font-family: Arial, sans-serif;
+  box-sizing: border-box; /**to make padding grow within the block*/
+}
+body {
+  width: 100%;
+
+}
+
+.container {
+  background-color: purple;
+  color: white;
+  padding: 20px;
+  border-color: red;
+  width: 75%;
+  height: 50%;
+}
+.title {
+  background-color: skyblue;
+  color: white;
+}
+.content {
+  background-color: lightpink;
+}
+.author{
+  background-color: lightgreen;
+}
