@@ -3,7 +3,7 @@ declare(strict_types=1);
 // This is the file where you can keep all your functions.
 
 //sorteringsfunktion här
-//require __DIR__.'/data.php';
+require __DIR__.'/data.php';
 
 
 //kopia
@@ -17,10 +17,11 @@ declare(strict_types=1);
 
 
 //min
-// function sortByDate($a, $b) {
-// return (int) $a ['date'] > (int) $b ['date'];
-// }
-// usorts($newsitem, 'sortbyDate');
+function sortByDate(array $newsitem, array $sort): bool {
+return $newsitem ['date'] < $sort ['date'];
+}
+usort($newsitem, 'sortbyDate');
+
+//
 // foreach ($newsitem as $item) {
-// echo $item ['date'].'<br>';
-// }
+// return $item ['date'].'<br>';

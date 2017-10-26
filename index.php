@@ -3,7 +3,7 @@ declare(strict_types=1);
 // This is the file where you can keep your HTML markup. We should always try to
 // keep us much logic out of the HTML as possible. Put the PHP logic in the top
 // of the files containing HTML or even better; in another PHP-only file.
-require __DIR__.'/functions.php';
+
 
 ?>
 <!DOCTYPE html>
@@ -20,6 +20,7 @@ require __DIR__.'/functions.php';
 
           <?php
           require __DIR__.'/data.php';
+          require __DIR__.'/functions.php';
           foreach ($newsitem as $item) {
             ?>
           <div class="newsitem">
@@ -27,7 +28,7 @@ require __DIR__.'/functions.php';
             <div class="content" id="contentId"><?php echo $item['content'];?></div>
             <div class="author" id="authorId"><?php echo $item['author'], $item ['fullname'], $item ['id'];?></div>
             <div class="date" id="dateId"><?php echo $item['date'];?></div>
-            <div class="like" id="likeId"><?php echo $item['likecount'];?></div>
+            <div class="like" id="likeId"> <img src="likeicon.png" alt="like"><?php echo $item['likecount'];?></div>
           </div>
         <?php }
           ?>
