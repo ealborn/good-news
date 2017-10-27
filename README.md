@@ -14,9 +14,9 @@ This is what you need to do to get started to open this project:
 
 ### Installing
 
-1 Click on the green "Clone or download" button on the upper right, and make sure you know where you put the folder. 
-2 Extract the folder if you downloaded it.
-3 Open MAMP, click preferences and under thr "Web server" tab, and set the Document root location to the downloaded folder. Make sure if you get two files with the same name "good-news-master" that you navigate to the inner one containing all the repository files.
+1. Click on the green "Clone or download" button on the upper right, and make sure you know where you put the folder. <br>
+2. Extract the folder if you downloaded it.<br>
+3. Open MAMP, click preferences and under thr "Web server" tab, and set the Document root location to the downloaded folder. Make sure if you get two files with the same name "good-news-master" that you navigate to the inner one containing all the repository files.
 
 ## Contributing
 
@@ -36,4 +36,4 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * Hat tip to my classmates in WU17 who helped me understand what to do to solve this project assignment.
-* Inspiration thanks to Cat ipsum (http://www.catipsum.com/index.php)
+* Inspiration thanks to [Cat ipsum](http://www.catipsum.com/index.php) 
