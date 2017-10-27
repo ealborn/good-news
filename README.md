@@ -1,79 +1,39 @@
 # good-news
 
-This is a cat-based news feed.
+This is a cat-based news feed. Or a school assignment given in PHP to build a news feed with posts sorted by date, if you will.
 
 # Welcome humans
 [<img src="https://media.giphy.com/media/J3juS9woXYq5i/giphy.gif" alt="catgif" width="50%">](https://media.giphy.com/media/J3juS9woXYq5i/giphy.gif)
 
 ## Get Started
 
-The following instructions will get you a copy of the project up and running on your local machine.
+This is what you need to do to get started to open this project:
 
-### Prerequisites
-
-Things needed to install the software and how to install them:
-A web browser such as Google Chrome or Firefox
-A web server such as MAMP or similar.
+- Install MAMP or similar local web server
+- An updated web browser, preferably Google Chrome or Firefox.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
+1 Click on the green "Clone or download" button on the upper right, and make sure you know where you put the folder. 
+2 Extract the folder if you downloaded it.
+3 Open MAMP, click preferences and under thr "Web server" tab, and set the Document root location to the downloaded folder. Make sure if you get two files with the same name "good-news-master" that you navigate to the inner one containing all the repository files.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Feel free to contribute to this repo by submitting a pull request correcting what you see fit, but please explain what you did so that I as a creator can learn from it.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Project created by Emma Alborn during October 2017
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Testers
+Tested by
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Hat tip to my classmates in WU17 who helped me understand what to do to solve this project assignment.
+* Inspiration thanks to Cat ipsum (http://www.catipsum.com/index.php)
