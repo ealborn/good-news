@@ -33,8 +33,10 @@ declare(strict_types=1);
           </div>
         <?php }
           ?>
-<p>Page designed and created by Emma Alborn 2017 with the help of Cat Ipsum and lolcat translator</p>
-<a href="https://www.freepik.com/free-vector/in-love-cats-silhouettes_718092.htm">Icon designed by Freepik</a>
+          <footer>
+            <p>Page designed and created by Emma Alborn 2017 with the help of <a href="http://www.catipsum.com/index.php#.WfYcbGj9TIU">Cat Ipsum</a> and <a href="http://speaklolcat.com/">lolcat translator</a>.</p>
+            <a href="https://www.freepik.com/free-vector/in-love-cats-silhouettes_718092.htm">Icon designed by Freepik</a>
+          </footer>
       </div>
     </body>
 </html>
