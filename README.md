@@ -3,7 +3,7 @@
 This is a cat-based news feed. Or a school assignment given in PHP to build a news feed with posts sorted by date, if you will.
 
 # Welcome humans
-[<img src="https://media.giphy.com/media/J3juS9woXYq5i/giphy.gif" alt="catgif" width="50%">](https://media.giphy.com/media/J3juS9woXYq5i/giphy.gif)
+<img src="https://media.giphy.com/media/CrdACPv8XTSJa/giphy.gif" alt="catgif" width="80%">
 
 ## Get Started
 
