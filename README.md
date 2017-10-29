@@ -7,18 +7,18 @@ This is a cat-based news feed. Or a school assignment given in PHP to build a ne
 
 ## First assignment.
 
-This is the first assignment given in PHP for the web developer class of 2017 at YRGO yrkeshögskola, Göteborg, Sweden.
+This is the first assignment given in PHP for the web developer class of 2017 at YRGO, Sweden.
 
 ## Languages
 
-This project is built with HTML, CSS and PHP.
+This project is built with HTML, CSS, PHP and lots of meow.
 
 ## Get Started
 
-This is what you need to do to get started to open this project:
+This is what you need to open this project:
 
-- Install MAMP or similar local web server
-- An updated web browser that preferably supports CSS3, preferably Google Chrome.
+- MAMP or a similar local web server
+- An updated web browser that supports CSS3, preferably Google Chrome.
 
 ### Installing
 
@@ -28,7 +28,7 @@ This is what you need to do to get started to open this project:
 
 ## Contributing
 
-Feel free to contribute to this repo by submitting a pull request, but please explain what you did so that I as a creator can learn from it.
+Feel free to contribute to this repo by submitting a purrr... I mean pull request, but please explain what you did so that I as a creator can learn from it.
 
 ## Authors
 
