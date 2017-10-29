@@ -5,6 +5,14 @@ This is a cat-based news feed. Or a school assignment given in PHP to build a ne
 # Welcome humans
 <img src="https://media.giphy.com/media/CrdACPv8XTSJa/giphy.gif" alt="catgif" width="80%">
 
+# My first blogfeed.
+
+This is an assignment for the web developer class of 2017 at YRGO yrkeshögskola, Göteborg, Sweden.
+
+# Languages
+
+This project is built with HTML, CSS and PHP.
+
 ## Get Started
 
 This is what you need to do to get started to open this project:
@@ -14,9 +22,9 @@ This is what you need to do to get started to open this project:
 
 ### Installing
 
-1. Click on the green "Clone or download" button on the upper right, and choose download. Make sure you know where you save the folder. <br>
-2. Extract the folder.<br>
-3. Open MAMP, click preferences and under the "Web server" tab, set the "Document root" location to the downloaded folder named "good-news-master". Make sure to set location to the inner file "good-news-master" containing all the repository files.
+1. Click on the green "Clone or download" button on the upper right, and clone or download the repository.
+2. Set up MAMP or something like it and set the root directory to the repository folder "good-news-master". You find this under the Web server tab in Preferences. Make sure to set location to the inner file "good-news-master" containing all the repository files. The servers should start automatically, but if not, press "Start Servers".
+3. Open your browser of choice and go to "localhost:8888"
 
 ## Contributing
 
