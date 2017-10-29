@@ -33,7 +33,7 @@ declare(strict_types=1);
           </div>
         <?php }
           ?>
-<p>Page designed and created by Emma Alborn 2017.</p>
+<p>Page designed and created by Emma Alborn 2017 with the help of Cat Ipsum and lolcat translator</p>
 <a href="https://www.freepik.com/free-vector/in-love-cats-silhouettes_718092.htm">Icon designed by Freepik</a>
       </div>
     </body>
