@@ -10,7 +10,7 @@ This is a cat-based news feed. Or a school assignment given in PHP to build a ne
 This is what you need to do to get started to open this project:
 
 - Install MAMP or similar local web server
-- An updated web browser, preferably Google Chrome or Firefox.
+- An updated web browser that preferably supports CSS3, preferably Google Chrome.
 
 ### Installing
 
@@ -20,14 +20,15 @@ This is what you need to do to get started to open this project:
 
 ## Contributing
 
-Feel free to contribute to this repo by submitting a pull request correcting what you see fit, but please explain what you did so that I as a creator can learn from it.
+Feel free to contribute to this repo by submitting a pull request, but please explain what you did so that I as a creator can learn from it.
 
 ## Authors
 
 Project created by Emma Alborn during October 2017
 
 ## Testers
-Tested by
+Tester 1:
+Tester 2:
 
 ## License
 
