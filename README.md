@@ -5,11 +5,11 @@ This is a cat-based news feed. Or a school assignment given in PHP to build a ne
 # Welcome humans
 <img src="https://media.giphy.com/media/CrdACPv8XTSJa/giphy.gif" alt="catgif" width="80%">
 
-# My first blogfeed.
+## First assignment.
 
-This is an assignment for the web developer class of 2017 at YRGO yrkeshögskola, Göteborg, Sweden.
+This is the first assignment given in PHP for the web developer class of 2017 at YRGO yrkeshögskola, Göteborg, Sweden.
 
-# Languages
+## Languages
 
 This project is built with HTML, CSS and PHP.
 
