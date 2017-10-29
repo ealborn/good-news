@@ -29,7 +29,7 @@ declare(strict_types=1);
             <div class="title" ><?php echo $item ['title'];?></div>
             <div class="content"><?php echo $item['content'];?></div>
             <div class="author"><p>Author:&nbsp;</p><?php echo $item['author']['name'] .' '. $item['date'];?></div>
-            <div class="like"><img class="likeIcon"src="likeicon2.png" alt="likeIcon"><?php echo $item['likecount'];?></div>
+            <div class="like"><img class="likeIcon"src="likeicon.png" alt="likeIcon"><?php echo $item['likecount'];?></div>
           </div>
         <?php }
           ?>
