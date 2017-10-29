@@ -27,8 +27,8 @@ Feel free to contribute to this repo by submitting a pull request, but please ex
 Project created by Emma Alborn during October 2017
 
 ## Testers
-Tester 1:
-Tester 2:
+- Tester 1:
+- Tester 2:
 
 ## License
 
