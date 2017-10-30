@@ -35,7 +35,7 @@ Feel free to contribute to this repo by submitting a purrr... I mean pull reques
 Project created by Emma Alborn during October 2017
 
 ## Testers
-- Tester 1:
+- Tester 1: Maria Eidland
 - Tester 2:
 
 ## License
