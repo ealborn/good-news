@@ -36,7 +36,7 @@ Project created by Emma Alborn during October 2017
 
 ## Testers
 - Tester 1: Maria Eidland
-- Tester 2:
+- Tester 2: Beatrice Svensson
 
 ## License
 
