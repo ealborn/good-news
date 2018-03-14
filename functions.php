@@ -5,7 +5,8 @@ declare(strict_types=1);
 require __DIR__.'/data.php';
 
 //the function that sorts each entry by date
-function sortByDate(array $newsitem, array $sort): bool {
-return $newsitem ['date'] < $sort ['date'];
+function sortByDate(array $newsitem, array $sort): bool
+{
+    return $newsitem ['date'] < $sort ['date'];
 }
 usort($newsitem, 'sortbyDate');

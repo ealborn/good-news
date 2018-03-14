@@ -24,14 +24,15 @@ declare(strict_types=1);
           require __DIR__.'/data.php';
           require __DIR__.'/functions.php';
           foreach ($newsitem as $item) {
-            ?>
+              ?>
           <div class="newsitem">
-            <div class="title" ><?php echo $item ['title'];?></div>
-            <div class="content"><?php echo $item['content'];?></div>
-            <div class="author"><p>Author:&nbsp;</p><?php echo $item['author']['name'] .' '. $item['date'];?></div>
-            <div class="like"><img class="likeIcon"src="likeicon.png" alt="likeIcon"><?php echo $item['likecount'];?></div>
+            <div class="title" ><?php echo $item ['title']; ?></div>
+            <div class="content"><?php echo $item['content']; ?></div>
+            <div class="author"><p>Author:&nbsp;</p><?php echo $item['author']['name'] .' '. $item['date']; ?></div>
+            <div class="like"><img class="likeIcon"src="likeicon.png" alt="likeIcon"><?php echo $item['likecount']; ?></div>
           </div>
-        <?php }
+        <?php
+          }
           ?>
           <footer>
             <p>Page designed and created by Emma Alborn 2017 with the help of <a href="http://www.catipsum.com/index.php#.WfYcbGj9TIU">Cat Ipsum</a> and <a href="http://speaklolcat.com/">lolcat translator</a>.</p>
