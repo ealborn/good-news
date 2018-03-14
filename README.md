@@ -1,4 +1,4 @@
-# good-news
+# good-news [![StyleCI](https://styleci.io/repos/107399121/shield?branch=master)](https://styleci.io/repos/107399121)
 
 This is a cat-based news feed. Or a school assignment given in PHP to build a news feed with posts sorted by date, if you will.
 
